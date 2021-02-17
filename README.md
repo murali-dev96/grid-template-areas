@@ -1,2 +1,2 @@
-# grid-template-areas
+# grid-line-based
 Created with CodeSandbox
